@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+memeta_config.json
+temp/
+data/*/metadata/
+
