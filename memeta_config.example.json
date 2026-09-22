@@ -1,0 +1,18 @@
+{
+  "current_org": "my-sandbox",
+  "orgs": {
+    "my-sandbox": {
+      "org_alias": "my-sandbox",
+      "is_sandbox": true,
+      "api_version": "60.0",
+      "include_types": [
+        "ApexClass",
+        "CustomObject",
+        "Report"
+      ],
+      "exclude_types": [
+        "StandardValueSet"
+      ]
+    }
+  }
+}

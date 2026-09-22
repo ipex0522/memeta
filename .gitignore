@@ -3,5 +3,4 @@ __pycache__/
 .venv/
 memeta_config.json
 temp/
-data/*/metadata/
-
+data/
